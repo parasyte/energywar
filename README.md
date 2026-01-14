@@ -22,7 +22,7 @@ Ratio            :       1.117031
 - Multiply the per-hour energy by 24 to estimate a daily total in kWh.
 - Compare against 62,318,750 kWh as a high-end estimate for GPT-4 training energy.
 
-If the 50% estimate for active players is too large, divide the total energy use by 10 to get 5%, and then multiply by 10 days to get back to the original answer.
+If the 50% estimate for active players is too large, divide the total energy use by 10 to get 5%, and then multiply by 10 days to get the energy use over 10 days (also the same numeric value).
 
 The data sources do not account for console gaming, mobile gaming, or non-steam PC gaming. The energy estimate for gaming PCs only accounts for GPU energy, not the rest of the computer, network equipment, or servers.
 
